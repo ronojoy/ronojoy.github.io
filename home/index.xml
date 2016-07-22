@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Soft Matter @ IMSc </title>
-    <link>http://replace-this-with-your-website-url.com/home/</link>
+    <link>http://ronojoy.github.io/home/</link>
     <description>Recent content in Homes on Soft Matter @ IMSc </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Ronojoy Adhikari</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-website-url.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ronojoy.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://replace-this-with-your-website-url.com/home/about/</link>
+      <link>http://ronojoy.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/home/about/</guid>
+      <guid>http://ronojoy.github.io/home/about/</guid>
       <description>
 
 &lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
