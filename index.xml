@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soft Matter @ IMSc </title>
+    <title> Theoretical Physics  @ IMSc </title>
     <link>https://ronojoy.github.io/</link>
-    <description>Recent content on Soft Matter @ IMSc </description>
+    <description>Recent content on  Theoretical Physics  @ IMSc </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Ronojoy Adhikari</copyright>
@@ -22,7 +22,8 @@
 
 &lt;p&gt;Ronojoy Adhikari is a scientist at The Institute of Mathematical Sciences,
 Chennai. His research focusses on two main areas, investigating the physics of
-materials and designing algorithms that make machines mimic human intelligence.&lt;/p&gt;
+complex and active fluids and designing algorithms that make machines mimic
+human intelligence.&lt;/p&gt;
 
 &lt;p&gt;Ronojoy is a recipient of the Faculty Research Award from Google Inc and of the
 DAE-SRC Outstanding Investigator Award from the Department of Atomic Energy,
